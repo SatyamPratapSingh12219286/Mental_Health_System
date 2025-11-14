@@ -26,5 +26,3 @@ Repository push instructions:
   - git remote add origin https://github.com/<your-username>/<repo-name>.git
   - git branch -M main
   - git push -u origin main
-
-If you want, I can create a `Dockerfile`, `docker-compose.yml`, and `.env.example` to make deployment easier.
