@@ -1,0 +1,42 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Composer and vendor
+vendor/
+composer.lock
+
+# Node
+node_modules/
+
+# Env files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# PHP session files (if stored in project temporarily)
+sessions/
+
+# Ignore database config if you move credentials to .env
+# (Uncomment if you plan to keep secrets out of repo)
+# config/database.php
+
+# Build artifacts
+dist/
+
+# Misc
+*.cache
+
+# Windows
+Thumbs.db
+
+# XAMPP/Local
+xampp/files/
+
